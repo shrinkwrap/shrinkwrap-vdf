@@ -28,7 +28,7 @@
     <!-- Versioning -->
     <version.org.jboss_jboss.vfs>3.0.0.CR5</version.org.jboss_jboss.vfs>
     <version.org.jboss.shrinkwrap>1.0.0-beta-6</version.org.jboss.shrinkwrap>
-    <version.org.jboss.shrinkwrap.vfs3>1.0.0-alpha-1-SNAPSHOT</version.org.jboss.shrinkwrap.vfs3>
+    <version.org.jboss.shrinkwrap.vfs3>1.0.0-cr-1</version.org.jboss.shrinkwrap.vfs3>
     <version.org.jboss.deployers_jboss.deployers.vfs>2.2.0.Alpha4</version.org.jboss.deployers_jboss.deployers.vfs>
     <version.jboss.logging>2.2.0.CR1</version.jboss.logging>
     <version.org.jboss.logmanager>1.2.0.CR1</version.org.jboss.logmanager>
